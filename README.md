@@ -17,20 +17,32 @@ as support.
 
   * Number of votes cast in the congressional election
     The total number of votes cast in the congressional election were 369,711.
+    ![total votes](https://user-images.githubusercontent.com/100876517/162644290-bd33feab-edf6-479e-8bb7-a4f584635778.png)
+    
+    The section of the code to provide the total votes is highlighted below
+    
+    
   
   * Breakdown of the number of votes and the percentage of total votes for each county in the precinct
   
     The breakdown of votes by county is as follows:
     
+    ![county votes](https://user-images.githubusercontent.com/100876517/162644299-6375faf7-d679-4509-b588-95bc15679854.png)
+    
          
   * County with largest number of votes
     The county with the largest number of votes was Denver County.  Denver had 306,055 votes or 82.8% of the total.
     
+    ![denver](https://user-images.githubusercontent.com/100876517/162644303-a570ab6b-c627-40f3-9070-e27a075bb0c1.png)
+    
   * Breakdown of the number of votes and the percentage of the total votes each candidate received
-    
-      
-    
+  
+    ![candidate votes](https://user-images.githubusercontent.com/100876517/162644308-144c341d-571e-4333-b789-896c02328181.png)
+         
   * Election winner with vote count and percentage of total votes
+  
+    ![winner](https://user-images.githubusercontent.com/100876517/162644310-dcf3f169-22f2-49be-abcb-995da01ae276.png)
+
  
 ### Analysis of Outcomes Based on Goals
 
