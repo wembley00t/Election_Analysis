@@ -84,7 +84,8 @@ with open(file_to_save, "w") as txt_file:
     
     ![county votes](https://user-images.githubusercontent.com/100876517/162644299-6375faf7-d679-4509-b588-95bc15679854.png)
     
-    Example Code
+    **Example Code**
+    
     '''
     
         #6a: Write a for loop to get the county from the county dictionary.
@@ -123,7 +124,7 @@ with open(file_to_save, "w") as txt_file:
       
     ![denver](https://user-images.githubusercontent.com/100876517/162644303-a570ab6b-c627-40f3-9070-e27a075bb0c1.png)
     
-    Example Code
+    ***Example Code***
     
     
  '''
@@ -151,7 +152,7 @@ with open(file_to_save, "w") as txt_file:
   
     ![candidate votes](https://user-images.githubusercontent.com/100876517/162644308-144c341d-571e-4333-b789-896c02328181.png)
     
-    Example Code
+    ***Example Code***
     
       '''
       
@@ -183,7 +184,7 @@ with open(file_to_save, "w") as txt_file:
   
     ![winner](https://user-images.githubusercontent.com/100876517/162644310-dcf3f169-22f2-49be-abcb-995da01ae276.png)
     
-    Example Code
+    ***Example Code***
     
     '''
     
